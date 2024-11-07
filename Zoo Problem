@@ -1,0 +1,49 @@
+<title> Zoo Animals
+</title>
+<header></header>
+<body>
+    <ol>
+    <li><h1> <strong>Bears</strong></h1></li>
+    <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Black_Bears_mating.jpg/220px-Black_Bears_mating.jpg" alt="image of two bears" </p>
+       <p><ul>
+        <li>Ollie</li>
+        <li>Mona</li>
+    </ul></p>
+    <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </section>
+    <a href="https://en.wikipedia.org/wiki/Bear">More Information</a>
+    <li><h1><strong>Giraffes</strong></h1></li>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/220px-Giraffe_Mikumi_National_Park.jpg" alt="image of a giraffe"</p>
+        <p><ul>
+        <li>Frankie</li>
+        <li>Coconut</li>
+    </ul></p>
+    <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </section>
+    <a href="https://en.wikipedia.org/wiki/Giraffe">More Information</a>
+    <li><h1><strong>Lions</strong></h1></li>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg/200px-Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg" alt="image of lions"</p>
+        <p><ul>
+        <li>Mella</li>
+        <li>Karl</li>
+    </ul></p>
+    <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </section>
+    <a href="https://en.wikipedia.org/wiki/Lion">More Information</a>
+    <li><h1><strong>Monkeys</strong></h1></li>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Portrait_of_a_father.jpg/220px-Portrait_of_a_father.jpg" alt="image of monkeys"</p>
+        <p><ul>
+        <li>Cookie</li>
+        <li>Earl</li>
+        <li>Banana Pudding</li>
+    </ul></p>
+    <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </section>
+    <a href="https://en.wikipedia.org/wiki/Monkey">More Information</a>
+    <li><h1><strong>Alligators</strong></h1></li>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chinese%2Bamerican_alligators.png/220px-Chinese%2Bamerican_alligators.png" alt="image of alligators"</p>
+        <p><ul>
+        <li>Wren</li>
+        <li>Aspen</li>
+        <li>Mika</li>
+    </ul></p>
+    <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </section>
+    <a href="https://en.wikipedia.org/wiki/Alligator">More Information</a>    
+</ol>
+</body>
